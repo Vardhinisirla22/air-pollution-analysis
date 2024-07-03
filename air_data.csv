@@ -1,0 +1,250 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period,IsLatestYear,Dim1 type,Gender,FactValue,FactValueNumericLow,FactValueNumericHigh,Language,CO,C6H6,NMHC,SO4,NOX,TOTAL_CONCENTRATION
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Both sexes,0.22,0.063,0.45,EN,6.7,1.056,6,3,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Female,0.05,0.014,0.1,EN,6.7,1.056,6,3,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Male,0.17,0.049,0.35,EN,6.7,1.056,6,3,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Female,0.092,0,0.28,EN,6.7,1.056,6,3,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,COM,Comoros,2019,TRUE,Sex,Both sexes,0.067,0.02,0.14,EN,6.7,1.92,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,COM,Comoros,2019,TRUE,Sex,Female,0,0,0,EN,6.7,1.92,6,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,COM,Comoros,2019,TRUE,Sex,Male,0.067,0.02,0.14,EN,6.7,1.92,3,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,GMB,Gambia,2019,TRUE,Sex,Female,0.19,0.089,0.33,EN,6.7,1.92,6,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Female,0.24,0.099,0.46,EN,6.7,1.92,6,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,2019,TRUE,Sex,Female,0.076,0,0.25,EN,3.2,1.92,6,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,LCA,Saint Lucia,2019,TRUE,Sex,Female,0.1,0.036,0.2,EN,3.2,1.92,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2019,TRUE,Sex,Female,0.14,0.044,0.29,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2019,TRUE,Sex,Male,0.18,0.054,0.35,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Female,0.14,0,0.38,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,2019,TRUE,Sex,Female,0.063,0,0.2,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Female,0.47,0.061,1.34,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Both sexes,0.31,0,0.96,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Female,0.27,0,1.04,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Male,0.22,0,0.68,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BLZ,Belize,2019,TRUE,Sex,Female,0.33,0.016,0.81,EN,3.2,9.7,5,5.88,7,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,BWA,Botswana,2019,TRUE,Sex,Female,0.42,0.17,0.79,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SWZ,Eswatini,2019,TRUE,Sex,Female,0.45,0.2,0.8,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FJI,Fiji,2019,TRUE,Sex,Female,0.49,0.029,1.27,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Male,0.41,0.17,0.77,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,2019,TRUE,Sex,Both sexes,0.37,0,1.24,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,2019,TRUE,Sex,Male,0.3,0,0.99,EN,3.2,9.7,5,5.88,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2019,TRUE,Sex,Female,0.18,0,0.59,EN,3.2,9.7,5,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2019,TRUE,Sex,Male,0.45,0,1.48,EN,3.2,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2019,TRUE,Sex,Both sexes,0.32,0.098,0.64,EN,3.2,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,WSM,Samoa,2019,TRUE,Sex,Female,0.21,0,0.7,EN,3.2,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SYC,Seychelles,2019,TRUE,Sex,Female,0.38,0.17,0.68,EN,3.2,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,2019,TRUE,Sex,Female,0.26,0,0.73,EN,8.34,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Female,0.38,0,1.18,EN,8.34,9.7,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Male,0.45,0,1.27,EN,8.34,8.8,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,2019,TRUE,Sex,Male,0.41,0,1.32,EN,3.2,8.8,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,2019,TRUE,Sex,Both sexes,0.47,0,1.52,EN,3.2,8.8,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SWZ,Eswatini,2019,TRUE,Sex,Male,0.71,0.32,1.26,EN,3.2,8.8,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Both sexes,0.65,0.26,1.24,EN,3.2,8.8,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Female,0.51,0.097,1.29,EN,7.8,7.5,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GUY,Guyana,2019,TRUE,Sex,Female,0.62,0.16,1.34,EN,7.8,7.5,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,SEAR,South-East Asia,Country,MDV,Maldives,2019,TRUE,Sex,Female,0.5,0.24,0.9,EN,7.8,7.5,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,NER,Niger,2019,TRUE,Sex,Female,0.78,0.35,1.33,EN,7.8,7.5,9.67,3.8987,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,LCA,Saint Lucia,2019,TRUE,Sex,Both sexes,0.7,0.24,1.39,EN,7.8,7.5,9.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,LCA,Saint Lucia,2019,TRUE,Sex,Male,0.59,0.21,1.18,EN,7.8,7.5,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,2019,TRUE,Sex,Female,0.66,0.27,1.19,EN,7.8,7.5,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Female,1.04,0.22,2.3,EN,7.8,8.8,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Male,0.93,0.19,2.06,EN,7.8,8.8,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Male,0.63,0.08,1.78,EN,7.8,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Male,0.63,0,2.39,EN,7.8,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BRB,Barbados,2019,TRUE,Sex,Female,0.81,0.29,1.6,EN,7.8,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BRB,Barbados,2019,TRUE,Sex,Male,0.98,0.35,1.94,EN,7.8,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BLZ,Belize,2019,TRUE,Sex,Male,1,0.048,2.44,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,2019,TRUE,Sex,Female,0.87,0.32,1.76,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,2019,TRUE,Sex,Male,0.8,0.3,1.62,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,2019,TRUE,Sex,Female,0.75,0.18,1.65,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,2019,TRUE,Sex,Male,1.01,0.25,2.22,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,2019,TRUE,Sex,Female,0.92,0.098,2.35,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FJI,Fiji,2019,TRUE,Sex,Male,0.72,0.042,1.86,EN,9.1,2.345,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Male,0.75,0.14,1.89,EN,9.1,565,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,2019,TRUE,Sex,Female,1,0.42,1.84,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ISL,Iceland,2019,TRUE,Sex,Female,1.09,0.43,2.28,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ISL,Iceland,2019,TRUE,Sex,Male,0.92,0.36,1.92,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,2019,TRUE,Sex,Female,0.61,0,2.08,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2019,TRUE,Sex,Both sexes,0.63,0,2.07,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,LCA,Saint Lucia,2019,TRUE,Sex,Female,0.84,0.12,2.17,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2019,TRUE,Sex,Female,0.67,0.1,1.76,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,WSM,Samoa,2019,TRUE,Sex,Both sexes,0.73,0,2.44,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,WSM,Samoa,2019,TRUE,Sex,Male,0.52,0,1.75,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SYC,Seychelles,2019,TRUE,Sex,Female,1.09,0.28,2.35,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SYC,Seychelles,2019,TRUE,Sex,Male,1.05,0.48,1.88,EN,3.456,5.65,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,2019,TRUE,Sex,Male,0.71,0,2.04,EN,3.456,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Both sexes,0.59,0,1.65,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Female,0.98,0,2.37,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,2019,TRUE,Sex,Both sexes,1.1,0.14,3.11,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Both sexes,0.9,0,3.44,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BLZ,Belize,2019,TRUE,Sex,Both sexes,1.34,0.064,3.26,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BLZ,Belize,2019,TRUE,Sex,Female,1,0.044,2.85,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FJI,Fiji,2019,TRUE,Sex,Both sexes,1.21,0.071,3.13,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GRD,Grenada,2019,TRUE,Sex,Both sexes,1.26,0.24,3.18,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GUY,Guyana,2019,TRUE,Sex,Male,1.18,0.3,2.56,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2019,TRUE,Sex,Female,0.95,0,3.2,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,NAM,Namibia,2019,TRUE,Sex,Female,1.33,0.38,2.79,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2019,TRUE,Sex,Male,1.15,0.18,3.03,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,2019,TRUE,Sex,Both sexes,0.96,0,2.77,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Male,1.18,0,2.88,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Male,1.47,0,3.43,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Male,1.08,0,3.32,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BHS,Bahamas,2019,TRUE,Sex,Female,1.43,0,4.35,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,2019,TRUE,Sex,Female,1.46,0.19,4.31,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KIR,Kiribati,2019,TRUE,Sex,Male,1.04,0,3.52,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2019,TRUE,Sex,Male,1.25,0,4.25,EN,9.1,2.7,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,WSM,Samoa,2019,TRUE,Sex,Female,1.45,0,5.38,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,TON,Tonga,2019,TRUE,Sex,Both sexes,1.46,0,4.5,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SWZ,Eswatini,2019,TRUE,Sex,Both sexes,1.15,0.52,2.06,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,LSO,Lesotho,2019,TRUE,Sex,Female,1.28,0.59,2.27,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,2019,TRUE,Sex,Male,1.39,0.57,2.5,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SYC,Seychelles,2019,TRUE,Sex,Both sexes,1.42,0.65,2.55,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,2019,TRUE,Sex,Female,1002,325.1,1867,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SLE,Sierra Leone,2019,TRUE,Sex,Both sexes,1003,639.9,1320,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GTM,Guatemala,2019,TRUE,Sex,Female,1011,623.1,1324,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SLE,Sierra Leone,2019,TRUE,Sex,Male,1012,515.1,1504,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,2019,TRUE,Sex,Female,1012,654.5,1310,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,TGO,Togo,2019,TRUE,Sex,Both sexes,1012,666.3,1317,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,TCD,Chad,2019,TRUE,Sex,Both sexes,1015,490.8,1625,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SVK,Slovakia,2019,TRUE,Sex,Female,1021,631.3,1339,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,2019,TRUE,Sex,Female,1022,434.2,1690,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,2019,TRUE,Sex,Male,1023,507.9,1663,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ALB,Albania,2019,TRUE,Sex,Both sexes,1029,488.2,1624,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,2019,TRUE,Sex,Male,1031,399.4,1769,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,HRV,Croatia,2019,TRUE,Sex,Male,1032,631.9,1357,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),2019,TRUE,Sex,Both sexes,1035,504,1620,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MDG,Madagascar,2019,TRUE,Sex,Male,1037,440.8,1762,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,2019,TRUE,Sex,Male,1038,622.4,1554,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,GTM,Guatemala,2019,TRUE,Sex,Male,1039,640.7,1361,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,PHL,Philippines,2019,TRUE,Sex,Both sexes,1040,581.1,1630,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,SLV,El Salvador,2019,TRUE,Sex,Female,1042,714.8,1344,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,ETH,Ethiopia,2019,TRUE,Sex,Male,1043,298.7,2179,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,AZE,Azerbaijan,2019,TRUE,Sex,Female,1043,481.2,1708,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,CUB,Cuba,2019,TRUE,Sex,Both sexes,1044,423.3,1815,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ARG,Argentina,2019,TRUE,Sex,Female,1045,235,2501,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,2019,TRUE,Sex,Male,1045,800.7,1266,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,2019,TRUE,Sex,Female,1047,695.8,1412,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,2019,TRUE,Sex,Male,1053,455.9,1875,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SVK,Slovakia,2019,TRUE,Sex,Male,1053,651.4,1382,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ARG,Argentina,2019,TRUE,Sex,Male,1055,414.1,1833,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,NER,Niger,2019,TRUE,Sex,Female,1062,673.7,1422,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ISR,Israel,2019,TRUE,Sex,Both sexes,1064,669.7,1380,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,POL,Poland,2019,TRUE,Sex,Male,1066,327.3,2238,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,TKM,Turkmenistan,2019,TRUE,Sex,Female,1066,682.9,1413,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ARG,Argentina,2019,TRUE,Sex,Male,1068,240,2554,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,HTI,Haiti,2019,TRUE,Sex,Female,1070,466.2,1616,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,2019,TRUE,Sex,Both sexes,1071,730.5,1352,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,BFA,Burkina Faso,2019,TRUE,Sex,Both sexes,1072,509.7,1848,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ECU,Ecuador,2019,TRUE,Sex,Male,1072,663.5,1420,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,2019,TRUE,Sex,Male,1073,751.1,1359,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CMR,Cameroon,2019,TRUE,Sex,Female,1074,581.3,1702,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,2019,TRUE,Sex,Female,1074,708.8,1374,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,2019,TRUE,Sex,Male,1077,739,1379,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,KEN,Kenya,2019,TRUE,Sex,Male,1083,598.3,1501,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ARM,Armenia,2019,TRUE,Sex,Male,1083,725.3,1401,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,ARG,Argentina,2019,TRUE,Sex,Female,1087,426.4,1888,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,DOM,Dominican Republic,2019,TRUE,Sex,Male,1088,287.6,1698,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,2019,TRUE,Sex,Both sexes,1089,684.5,1418,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ARM,Armenia,2019,TRUE,Sex,Female,1091,730.9,1412,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,BFA,Burkina Faso,2019,TRUE,Sex,Male,1092,652.3,1484,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,NER,Niger,2019,TRUE,Sex,Male,1096,695.6,1469,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MDG,Madagascar,2019,TRUE,Sex,Female,1097,480.5,1846,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BLR,Belarus,2019,TRUE,Sex,Female,1097,493.9,1803,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,2019,TRUE,Sex,Both sexes,1098,720.3,1411,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SVN,Slovenia,2019,TRUE,Sex,Both sexes,1102,797.8,1389,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,2019,TRUE,Sex,Both sexes,1103,567.2,1643,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,2019,TRUE,Sex,Female,1103,722.4,1462,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SWE,Sweden,2019,TRUE,Sex,Female,1107,673.8,1564,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,MKD,North Macedonia,2019,TRUE,Sex,Male,1107,842.9,1382,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,2019,TRUE,Sex,Female,1110,720.3,1443,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ISR,Israel,2019,TRUE,Sex,Male,1114,866.4,1375,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,URY,Uruguay,2019,TRUE,Sex,Both sexes,1115,707.5,1543,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,IRL,Ireland,2019,TRUE,Sex,Both sexes,1116,737,1515,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MDG,Madagascar,2019,TRUE,Sex,Female,1117,474.5,1897,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,2019,TRUE,Sex,Male,1122,443.2,1932,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SSD,South Sudan,2019,TRUE,Sex,Female,1122,620.6,1700,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,NIC,Nicaragua,2019,TRUE,Sex,Both sexes,1126,676.1,1508,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CMR,Cameroon,2019,TRUE,Sex,Male,1129,611.2,1789,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,AGO,Angola,2019,TRUE,Sex,Male,1133,415,1796,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,2019,TRUE,Sex,Both sexes,1133,555.3,1734,EN,7.99,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),2019,TRUE,Sex,Both sexes,1136,513,1820,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,UGA,Uganda,2019,TRUE,Sex,Male,1138,724.1,1492,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,CUB,Cuba,2019,TRUE,Sex,Both sexes,1139,458.1,2049,EN,9.1,3.76,5.98,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,MDA,Republic of Moldova,2019,TRUE,Sex,Male,1140,680.3,1547,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ITA,Italy,2019,TRUE,Sex,Male,1144,516,1881,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,KEN,Kenya,2019,TRUE,Sex,Female,1145,394.2,2103,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SWE,Sweden,2019,TRUE,Sex,Male,1146,693.1,1615,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),2019,TRUE,Sex,Female,1150,771.2,1543,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,2019,TRUE,Sex,Male,1152,133.5,2772,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,FRA,France,2019,TRUE,Sex,Male,1157,554,2039,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,SLV,El Salvador,2019,TRUE,Sex,Male,1158,800.2,1503,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,JPN,Japan,2019,TRUE,Sex,Female,1161,566.6,2033,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,TKM,Turkmenistan,2019,TRUE,Sex,Male,1162,744.3,1540,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,2019,TRUE,Sex,Male,1162,759,1544,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,CHN,China,2019,TRUE,Sex,Both sexes,1163222,907923,1448225,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CAF,Central African Republic,2019,TRUE,Sex,Male,1167,327.1,2111,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,2019,TRUE,Sex,Both sexes,1168,604.1,1751,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MWI,Malawi,2019,TRUE,Sex,Both sexes,1170,173.7,2166,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KHM,Cambodia,2019,TRUE,Sex,Male,1170,724,1522,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BGR,Bulgaria,2019,TRUE,Sex,Male,1172,571,1843,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,2019,TRUE,Sex,Both sexes,1174,510.2,2067,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,PER,Peru,2019,TRUE,Sex,Both sexes,1181,590.2,1809,EN,9.1,3.76,8.67,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,BEN,Benin,2019,TRUE,Sex,Male,1184,710.2,1673,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,FIN,Finland,2019,TRUE,Sex,Both sexes,1185,642.1,1703,EN,9.1,3.76,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,KAZ,Kazakhstan,2019,TRUE,Sex,Both sexes,1186,387.5,2438,EN,9.1,3.76,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,SGP,Singapore,2019,TRUE,Sex,Male,1186,802.8,1565,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MOZ,Mozambique,2019,TRUE,Sex,Female,1189,410.4,2025,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,NZL,New Zealand,2019,TRUE,Sex,Both sexes,1205,792,1605,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,2019,TRUE,Sex,Female,1208,239.3,3015,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,2019,TRUE,Sex,Female,1208,828.5,1546,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),2019,TRUE,Sex,Male,1220,789.5,1588,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,FRA,France,2019,TRUE,Sex,Female,1222,437.9,2268,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,CHE,Switzerland,2019,TRUE,Sex,Male,1225,810.4,1604,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,2019,TRUE,Sex,Male,1227,898.6,1591,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),2019,TRUE,Sex,Female,1228,794.9,1599,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,LVA,Latvia,2019,TRUE,Sex,Female,1228,823.8,1633,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,SEAR,South-East Asia,Country,NPL,Nepal,2019,TRUE,Sex,Male,1230,654,1884,EN,9.1,4.1,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,2019,TRUE,Sex,Female,1230,919.4,1556,EN,9.1,6.87,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,RWA,Rwanda,2019,TRUE,Sex,Both sexes,1232,447.5,2011,EN,9.1,6.87,3.09,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,CHE,Switzerland,2019,TRUE,Sex,Female,1236,824.8,1634,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,DOM,Dominican Republic,2019,TRUE,Sex,Female,1240,349.9,1931,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,SLV,El Salvador,2019,TRUE,Sex,Both sexes,1248,773,1629,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,GRC,Greece,2019,TRUE,Sex,Both sexes,1253,567.5,2041,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,2019,TRUE,Sex,Both sexes,1254,766.2,1823,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,2019,TRUE,Sex,Female,1255,537.2,1965,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,SRB,Serbia,2019,TRUE,Sex,Female,1255,646.2,1901,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,GHA,Ghana,2019,TRUE,Sex,Male,1255,666.2,2022,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MWI,Malawi,2019,TRUE,Sex,Female,1257,416.8,1991,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ITA,Italy,2019,TRUE,Sex,Female,1258,567.6,2069,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,TJK,Tajikistan,2019,TRUE,Sex,Both sexes,1264,689.5,2010,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,NGA,Nigeria,2019,TRUE,Sex,Female,1266,517.1,2271,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,CHL,Chile,2019,TRUE,Sex,Male,1270,798.3,1638,EN,9.1,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,TUR,Türkiye,2019,TRUE,Sex,Male,1273,749.7,1838,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,2019,TRUE,Sex,Both sexes,1274,600.6,1960,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,2019,TRUE,Sex,Female,1275,551.6,2268,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,BEN,Benin,2019,TRUE,Sex,Both sexes,1276,824.6,1662,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,FRA,France,2019,TRUE,Sex,Male,1279,510.7,2272,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AMR,Americas,Country,CHL,Chile,2019,TRUE,Sex,Both sexes,1281,638.2,1960,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,2019,TRUE,Sex,Both sexes,1281,845.1,1656,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,LTU,Lithuania,2019,TRUE,Sex,Male,1285,849.6,1689,EN,5.16,6.87,5,6,8.6767,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,2019,TRUE,Sex,Male,1286,254.8,3211,EN,5.16,6.87,5,6,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,HUN,Hungary,2019,TRUE,Sex,Both sexes,1292,583.6,2111,EN,5.16,6.87,5,6,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BEL,Belgium,2019,TRUE,Sex,Male,1293,758.1,1736,EN,5.16,6.87,5,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,ZMB,Zambia,2019,TRUE,Sex,Both sexes,1296,380.9,2396,EN,7.54,4.1,5,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,2019,TRUE,Sex,Both sexes,1298,685.8,1852,EN,7.54,3.732,5,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,HRV,Croatia,2019,TRUE,Sex,Female,1298,794.4,1706,EN,7.54,3.732,5,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,2019,TRUE,Sex,Female,1299,558,2316,EN,7.54,3.732,5,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,UZB,Uzbekistan,2019,TRUE,Sex,Both sexes,1300,881.7,1768,EN,7.54,3.732,3,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ROU,Romania,2019,TRUE,Sex,Both sexes,1301,551.9,2192,EN,7.54,3.732,3,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,ZWE,Zimbabwe,2019,TRUE,Sex,Both sexes,1302,353.4,2468,EN,7.54,3.732,3,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,MNG,Mongolia,2019,TRUE,Sex,Both sexes,1304,912.1,1658,EN,7.54,5.998,3,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,BEL,Belgium,2019,TRUE,Sex,Female,1306,766,1754,EN,7.54,5.998,3,2.675,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,SSD,South Sudan,2019,TRUE,Sex,Both sexes,1311,507,2186,EN,2.34,5.998,8,8.546,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,TGO,Togo,2019,TRUE,Sex,Female,1314,930.8,1691,EN,2.34,5.998,8,8.546,4.67,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),2019,TRUE,Sex,Male,1319,501.5,2463,EN,2.34,3.219,8,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,2019,TRUE,Sex,Both sexes,1321,432.5,2639,EN,2.34,3.219,8,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,2019,TRUE,Sex,Male,1325,500.1,2413,EN,2.34,3.219,8,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,MRT,Mauritania,2019,TRUE,Sex,Both sexes,1325,802.6,1861,EN,1.89,3.219,8,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,2019,TRUE,Sex,Both sexes,1326,905.4,1766,EN,1.89,3.219,9.1,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ESP,Spain,2019,TRUE,Sex,Female,1334,510,2476,EN,1.89,3.219,9.1,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,CMR,Cameroon,2019,TRUE,Sex,Female,1334,932.9,1713,EN,1.89,3.219,9.1,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,ESP,Spain,2019,TRUE,Sex,Both sexes,1346,450.8,2594,EN,1.89,3.219,9.1,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,AFR,Africa,Country,KEN,Kenya,2019,TRUE,Sex,Male,1348,463.9,2475,EN,1.89,3.219,9.1,8.546,2.776,10
+AIR_41,Ambient air pollution attributable deaths,numeric,EUR,Europe,Country,KAZ,Kazakhstan,2019,TRUE,Sex,Male,1355,662.8,2089,EN,4.5,5.998,9.1,8.546,2.776,10
